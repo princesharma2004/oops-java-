@@ -1,3 +1,9 @@
+/*
+    AUTHOR        - PRINCE SHARMA
+    DATE AND TIME - 5/8/24 10:56 PM
+    WORKING       - Area of circle finder
+*/
+
 class Print_area_of_circle
   {
     public static void main(String[] arg)
