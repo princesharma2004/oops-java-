@@ -1,3 +1,9 @@
+/*
+    AUTHOR        - PRINCE SHARMA
+    DATE AND TIME - 5/8/24 10:56 PM
+    WORKING       - Simple interest finder
+*/
+
 public class Simple_interest {
     public static void main(String[] arg)
     {
