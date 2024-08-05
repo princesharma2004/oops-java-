@@ -1,3 +1,9 @@
+/*
+    AUTHOR        - PRINCE SHARMA
+    DATE AND TIME - 5/8/24 10:56 PM
+    WORKING       - Evan odd finder
+*/
+
 public class Evan_or_odd {
     public static void main(String[] arg)
     {
