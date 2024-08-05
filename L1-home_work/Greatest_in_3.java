@@ -1,3 +1,9 @@
+/*
+    AUTHOR        - PRINCE SHARMA
+    DATE AND TIME - 5/8/24 10:56 PM
+    WORKING       - Greatest in three variable
+*/
+
 public class Greatest_in_3 {
     public static void main(String[] arg)
     {
