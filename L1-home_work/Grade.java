@@ -1,3 +1,9 @@
+/*
+    AUTHOR        - PRINCE SHARMA
+    DATE AND TIME - 5/8/24 10:56 PM
+    WORKING       - Grade chacking program
+*/
+
 public class Grade {
     public static void main(String[] args) 
     {
