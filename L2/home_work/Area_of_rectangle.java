@@ -1,6 +1,6 @@
 /*
     AUTHOR        - PRINCE SHARMA
-    DATE AND TIME - 7/8/24 11:58 PM
+    DATE AND TIME - 7/8/24 12:11 PM
     WORKING       - Area of a Rectangle
 */
 
