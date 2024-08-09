@@ -1,6 +1,6 @@
 /*
     AUTHOR        - PRINCE SHARMA
-    DATE AND TIME - 8/8/24 00:09 PM
+    DATE AND TIME - 8/8/24 00:09 AM
     WORKING       - remainder calculation
 */
 
